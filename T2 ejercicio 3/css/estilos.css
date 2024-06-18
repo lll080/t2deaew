@@ -1,0 +1,38 @@
+body{
+    background-color: green;
+}
+
+.contenido{
+    text-align: center;
+    height: 100%;
+    width: auto;
+    display: flex;
+    
+}
+.box1{
+    font-size: 35px;
+    height: 100%;
+    width: auto;
+    padding-top: 50px;
+    background-color: chocolate;
+    margin: 20px;
+    box-sizing: border-box;
+}
+.box2{
+    font-size: 35px;
+    height: 100%;
+    width: auto;
+    padding-top: 50px;
+    background-color: orange;
+    margin: 20px;
+    box-sizing: border-box;
+}
+.box3{
+    font-size: 35px;
+    height: 100%;
+    width: auto;
+    padding-top: 50px;
+    background-color:cyan;
+    margin: 20px;
+    box-sizing: border-box;
+}

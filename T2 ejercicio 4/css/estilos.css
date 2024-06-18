@@ -1,0 +1,44 @@
+* {
+  margin: auto;
+  border: auto;
+  padding: auto;
+
+body{
+    background-color: #ffffff   ;
+}
+
+}
+#contenedor {
+  height: 900px;
+  width: 960px;
+  margin-right: auto;
+  margin-left: auto;
+}
+#cabecera {
+  background-color: rgb(255, 255, 255);
+  height: 260px;
+  width: 960px;
+  text-align: center;
+}
+#contenido {
+  background-color: rgb(255, 255, 255);
+  float: right;
+  display: flex;
+  height: 600px;
+  width: 750px;
+}
+#contenido2 {
+    display: flex;
+}
+#columna {
+  background-color: rgb(255, 255, 255);
+  float: left;
+  height: 600px;
+  width: 210px;
+}
+#pie {
+  background-color: #312f2f;
+  height: 40px;
+  width: 960px;
+  clear: both;
+}
